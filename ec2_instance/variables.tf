@@ -1,9 +1,9 @@
 variable "ami" {
-  description = "ami-09278528675a8d54e"
+  description = ""
 }
 
 variable "instance_type" {
-  description = "t3.medium"
+  description = ""
 }
 
 variable "instance_name" {
